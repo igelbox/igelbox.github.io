@@ -1,0 +1,7 @@
+# Site settings
+title: Вахурин Сергей
+baseurl: ""
+github_username:  igelbox
+
+# Build settings
+markdown: kramdown
